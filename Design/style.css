@@ -1,1 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+:root {
+    /* Cores da Página */
+
+    --cor-primaria: #FFFFFF;
+    --cor-secundaria: #1F314F;
+    --cor-terciaria: #68778D;
+    --cor-quaternaria: #D5E1EF;
+
+    /* Fontes da Página */
+
+    --fonte: 'Outfit', sans-serif;
+}
