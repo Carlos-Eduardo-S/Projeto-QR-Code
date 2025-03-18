@@ -12,3 +12,7 @@
 
     --fonte: 'Outfit', sans-serif;
 }
+
+body {
+    background-color: var(--cor-terciaria);
+}
